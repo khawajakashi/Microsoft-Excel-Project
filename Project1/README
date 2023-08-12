@@ -1,0 +1,21 @@
+# Excel Bike Sales Project
+
+This project optimizes and analyzes bike sales data in Excel. It involves data cleaning, efficient structuring, pivot table analysis, and an interactive dashboard creation.
+
+## Highlights
+- Cleaned and standardized raw bike sales data.
+- Optimized data structure for efficiency and accuracy.
+- Utilized pivot tables to extract insights and trends.
+- Created an interactive dashboard for visualizing key metrics.
+
+## Project Structure
+- `data/`: Raw and cleaned datasets.
+- `notebooks/`: Jupyter Notebook for data cleaning.
+- `pivot_tables/`: Excel file with pivot table analysis.
+- `dashboard/`: Excel file containing the interactive dashboard.
+
+## Get Started
+1. Clone the repository.
+2. Explore datasets in `data/` and review data cleaning in `notebooks/`.
+3. Analyze data using pivot tables in `pivot_tables/`.
+4. Visualize insights with the interactive dashboard in `dashboard/`.
